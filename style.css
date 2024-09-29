@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
 }
 html body{
     height: 100%;
@@ -62,4 +63,18 @@ nav ul li{
     font-weight: 800;
     font-size: 30px;
     padding-top: 26px;
+=======
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    /* background-image: url(aman.png);
+    background-size: cover;
+    background-position: center; */
+>>>>>>> 2df8005 (port)
 }
